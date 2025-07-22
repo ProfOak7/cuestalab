@@ -1,1 +1,15 @@
+# --- Core App ---
 streamlit
+pandas
+pytz
+
+# --- Google Gmail + Sheets API ---
+google-auth
+google-auth-oauthlib
+google-auth-httplib2
+google-api-python-client
+gspread
+oauth2client
+
+# Optional: used in older versions of gspread if needed
+# You can omit this if oauth2client isn't explicitly used
