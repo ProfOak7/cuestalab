@@ -8,7 +8,7 @@ from bookings import load_bookings
 from slots import generate_slots
 from ui_student import show_student_signup
 from ui_admin import show_admin_view
-from email_utils import init_email  # Optional, for future Gmail setup
+#from email_utils import init_email  # Optional, for future Gmail setup
 
 # --- Configuration ---
 st.set_page_config(page_title="Student Appointment Sign-Up", layout="wide")
